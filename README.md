@@ -9,3 +9,14 @@ In this lab, we will begin the task of migrating our application from a “monol
 * Taskmaster functionality must remain the same
 * With the exception of History (do not implement)
 * Refactor your react application to send a JSON object to the server instead of raw form data
+
+## Works Cited
+
+[AWS Tutorial](https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html)  
+[How to Give your uploads public access](https://forums.aws.amazon.com/thread.jspa?threadID=116231)  
+[Create, Read, Update, and Delete an Item](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Js.03.html#GettingStarted.Js.03.03)  
+[Lambda Proxy Integration](https://serverless.com/framework/docs/providers/aws/events/apigateway/#lambda-proxy-integration)
+
+## Collaborative Efforts
+
+Trevor Dobson
