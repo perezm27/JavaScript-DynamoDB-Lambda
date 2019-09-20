@@ -33,7 +33,9 @@ PUT:
 [How to Give your uploads public access](https://forums.aws.amazon.com/thread.jspa?threadID=116231)  
 [Create, Read, Update, and Delete an Item](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Js.03.html#GettingStarted.Js.03.03)  
 [UpdateItem Method](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_UpdateItem.html)  
-[Lambda Proxy Integration](https://serverless.com/framework/docs/providers/aws/events/apigateway/#lambda-proxy-integration)
+[Lambda Proxy Integration](https://serverless.com/framework/docs/providers/aws/events/apigateway/#lambda-proxy-integration)  
+[How to implement in JAVA(Request)](https://github.com/aws/aws-lambda-java-libs/blob/master/aws-lambda-java-events/src/main/java/com/amazonaws/services/lambda/runtime/events/APIGatewayProxyRequestEvent.java)  
+[How to implement in JAVA(Response)](https://github.com/aws/aws-lambda-java-libs/blob/master/aws-lambda-java-events/src/main/java/com/amazonaws/services/lambda/runtime/events/APIGatewayProxyResponseEvent.java)
 
 ## Collaborative Efforts
 
