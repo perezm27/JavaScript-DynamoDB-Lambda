@@ -1,0 +1,11 @@
+{
+  "name": "taskmaster-lambda-functions",
+  "version": "1.0.0",
+  "description": "Overview In this lab, we will begin the task of migrating our application from a “monolithic” Java application into a truly cloud based application, with distributed functions, services, and events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
