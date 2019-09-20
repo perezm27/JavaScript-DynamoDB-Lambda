@@ -15,6 +15,7 @@ In this lab, we will begin the task of migrating our application from a “monol
 [AWS Tutorial](https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html)  
 [How to Give your uploads public access](https://forums.aws.amazon.com/thread.jspa?threadID=116231)  
 [Create, Read, Update, and Delete an Item](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Js.03.html#GettingStarted.Js.03.03)  
+[UpdateItem Method](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_UpdateItem.html)  
 [Lambda Proxy Integration](https://serverless.com/framework/docs/providers/aws/events/apigateway/#lambda-proxy-integration)
 
 ## Collaborative Efforts
