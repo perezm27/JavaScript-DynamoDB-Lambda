@@ -10,6 +10,23 @@ In this lab, we will begin the task of migrating our application from a “monol
 * With the exception of History (do not implement)
 * Refactor your react application to send a JSON object to the server instead of raw form data
 
+## Routes
+GET:
+```
+/tasks
+```
+```
+/tasks/{user}
+```
+POST:
+```
+/tasks
+```
+PUT:
+```
+/tasks/assign/{assignee}/{id} 
+```
+
 ## Works Cited
 
 [AWS Tutorial](https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html)  
